@@ -1,7 +1,8 @@
-import Image from "next/image";
-import Link from "next/link";
+// import Image from "next/image";
+// import Link from "next/link";
 
 export default function Home() {
+  /*
   const galleryImages = [
     "/WhatsApp Image 2025-10-31 at 9.11.06 PM (1).jpeg",
     "/WhatsApp Image 2025-10-31 at 9.11.06 PM.jpeg",
@@ -24,7 +25,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white">
-      {/* Navigation */}
+      // Navigation
       <nav className="bg-white shadow-md sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-20">
@@ -52,7 +53,7 @@ export default function Home() {
         </div>
       </nav>
 
-      {/* Hero Section */}
+      // Hero Section
       <section id="home" className="relative py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-blue-100 via-blue-50 to-yellow-50">
         <div className="max-w-7xl mx-auto">
           <div className="grid md:grid-cols-2 gap-12 items-center">
@@ -100,7 +101,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Why Choose Us Section */}
+      // Why Choose Us Section
       <section className="py-16 px-4 sm:px-6 lg:px-8 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
@@ -132,7 +133,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* About Section */}
+      // About Section
       <section id="about" className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-blue-50 to-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
@@ -187,7 +188,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Age Groups Section */}
+      // Age Groups Section
       <section id="age-groups" className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
@@ -312,7 +313,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Curriculum Section */}
+      // Curriculum Section
       <section id="curriculum" className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-blue-50 to-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
@@ -446,7 +447,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Facilities Section */}
+      // Facilities Section
       <section id="facilities" className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
@@ -501,7 +502,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Admission Section */}
+      // Admission Section
       <section id="admission" className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-blue-50 to-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
@@ -605,7 +606,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Activities & Events Section */}
+      // Activities & Events Section
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
@@ -650,7 +651,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Testimonials Section */}
+      // Testimonials Section
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-blue-50 to-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
@@ -716,7 +717,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Gallery Section */}
+      // Gallery Section
       <section id="gallery" className="py-20 px-4 sm:px-6 lg:px-8 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
@@ -739,7 +740,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Contact Section */}
+      // Contact Section
       <section id="contact" className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-blue-600 to-blue-700 text-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
@@ -832,7 +833,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Footer */}
+      // Footer
       <footer className="bg-gray-900 text-white py-12 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
           <div className="grid md:grid-cols-4 gap-8 mb-8">
@@ -904,4 +905,7 @@ export default function Home() {
       </footer>
     </div>
   );
+  */
+
+  return <div>hello</div>;
 }
